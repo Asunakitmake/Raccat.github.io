@@ -1,4 +1,6 @@
 title: "What a drag"
 description: "I Describe things"
 permalink: "/blog/:year/:month/:day/:title"
+markdown: kramdown
+remote_theme: jekyll-theme-hacker
 url: https://asunakitmake.github.io/Raccat.github.io/
